@@ -20,25 +20,45 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
 </p>
 
 ### 🌐 Web Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
 </p>
 
 ### 🗄️ Database & Cloud
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
 </p>
 
 ### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
